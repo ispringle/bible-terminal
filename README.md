@@ -16,7 +16,6 @@ A sed/awk script to grab a chapter from the WEB bible and print it to terminal
 	`ln -s /path/to/github/repo/bt /path/to/bin/bt`
 
 ## To-Do
- - Use function
  - Allow single ("1" instead of "01") numbers for chapters
  - Print specific verses
  - Better book name parsing
