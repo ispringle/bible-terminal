@@ -20,3 +20,4 @@ A sed/awk script to grab a chapter from the WEB bible and print it to terminal
  - Print specific verses
  - Better book name parsing
  - Make text prettier
+ - Accept "standard" verse structure (Gen 2:13)
